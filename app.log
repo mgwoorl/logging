@@ -1,0 +1,21 @@
+2024-05-31 01:36:10,121 - my_logger - Generated user_id: 57a8091032f480df190ab3b2ca123bbe
+2024-05-31 01:41:46,526 - my_logger - Generated user_id: 453dc41f8725573abfa6864b2f9c0a36
+2024-05-31 01:42:16,529 - my_logger - Generated user_id: ab38e241c204f3c2d69f74aa6528362d
+2024-05-31 01:42:33,942 - my_logger - Generated user_id: 33158fb5a4b01d5fb6ea22b0c0d6efec
+2024-05-31 01:44:32,942 - my_logger - Generated user_id: 9248bb600e57c4c0d9c77ad93717f807
+2024-05-31 01:50:28,877 - my_logger - Generated user_id: 43eb0c9dd3d0c31279dc9512bbe64d2a
+2024-05-31 01:50:53,610 - my_logger - Generated user_id: b72b733333db033c4a0c33e82fae8685
+2024-05-31 01:50:53,667 - subscriber - subs_uid b72b733333db033c4a0c33e82fae8685
+2024-05-31 01:51:00,030 - my_logger - Generated user_id: 48c88d078125c3c926fa044979055bbe
+2024-05-31 01:52:41,676 - my_logger - Generated user_id: 44d6a213df3f585cae755aa3521c979c
+2024-05-31 01:52:43,180 - subscriber - received message = off привет
+2024-05-31 01:52:44,879 - my_logger - Generated user_id: 903c7fa2458db91f7efbbc683dc91396
+2024-05-31 01:52:44,889 - subscriber - subs_uid 903c7fa2458db91f7efbbc683dc91396
+2024-05-31 01:52:46,980 - subscriber - received message = off привет
+2024-05-31 01:52:48,980 - subscriber - received message = off привет
+2024-05-31 01:52:50,985 - subscriber - received message = on привет
+2024-05-31 01:52:52,982 - subscriber - received message = on привет
+2024-05-31 01:52:54,984 - subscriber - received message = on привет
+2024-05-31 01:52:56,984 - subscriber - received message = off привет
+2024-05-31 01:52:58,994 - subscriber - received message = off привет
+2024-05-31 01:53:01,008 - subscriber - received message = off привет
