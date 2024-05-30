@@ -28,7 +28,7 @@ logger = get_logger("subscriber")
 
 broker = "broker.emqx.io"
 
-user_id = requests.get('http://127.0.0.1:8001/auth').json()
+user_id = requests.get('http://127.0.0.1:8002/auth').json()
 logger.info("subs_uid %s", user_id)
 
 def on_message(client, userdata, message):
@@ -47,9 +47,6 @@ client.connect(broker)
 client.loop_start() 
 print("Subcribing")
 client.subscribe("lab/leds/state")
-time.sleep(1800)
-client.disconnect()
-client.loop_stop()
 time.sleep(1800)
 client.disconnect()
 client.loop_stop()
